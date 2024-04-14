@@ -27,9 +27,9 @@ function About() {
               learning programming when I began university in 2021.
               <br />
               <br />
-              I have experience in Frontend development, but I also aspire to
-              develop my skills in Backend NodeJS. I hope to have the
-              opportunity to become a Fullstack developer.
+              I know JavaScript and ReactJS, so I am strong in Frontend
+              development. I also want to develop Backend NodeJS skills to
+              become a Fullstack developer.
               <br />
               <br />
               Besides programming, I enjoy listening to music, playing games,
