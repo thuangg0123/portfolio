@@ -18,7 +18,7 @@ function About() {
         <div className="flex md:w-[80%] flex-col items-center md:flex-row">
           <div className="mt-10 md:mr-10 md:mb-10">
             <div className="w-[200px]">
-              <img src="src/assets/ava.jpg" alt="" className="rounded-full" />
+              <img src="/assets/ava.jpg" alt="" className="rounded-full" />
             </div>
           </div>
           <div>
