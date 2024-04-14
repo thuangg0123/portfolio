@@ -1,48 +1,48 @@
 [
   {
     "id": 1,
-    "img_project": "src/assets/demo/chatapp.png",
+    "img_project": "/assets/demo/chatapp.png",
     "name_project": "CHAT APP",
     "language": [
       {
         "id_tech": 1,
         "name_tech": "ReactJS",
-        "img_tech": "src/assets/icon/reactjs.png"
+        "img_tech": "/assets/icon/reactjs.png"
       },
       {
         "id_tech": 2,
         "name_tech": "Redux Toolkit",
-        "img_tech": "src/assets/icon/redux.png"
+        "img_tech": "/assets/icon/redux.png"
       },
       {
         "id_tech": 3,
         "name_tech": "Boostrap",
-        "img_tech": "src/assets/icon/bootstrap.png"
+        "img_tech": "/assets/icon/bootstrap.png"
       },
       {
         "id_tech": 4,
         "name_tech": "Python",
-        "img_tech": "src/assets/icon/python.png"
+        "img_tech": "/assets/icon/python.png"
       },
       {
         "id_tech": 5,
         "name_tech": "Flask",
-        "img_tech": "src/assets/icon/flask.png"
+        "img_tech": "/assets/icon/flask.png"
       },
       {
         "id_tech": 6,
         "name_tech": "SocketIO",
-        "img_tech": "src/assets/icon/socketio.png"
+        "img_tech": "/assets/icon/socketio.png"
       },
       {
         "id_tech": 7,
         "name_tech": "RestAPI",
-        "img_tech": "src/assets/icon/resapi.png"
+        "img_tech": "/assets/icon/resapi.png"
       },
       {
         "id_tech": 8,
         "name_tech": "MongoDB",
-        "img_tech": "src/assets/icon/mongodb.png"
+        "img_tech": "/assets/icon/mongodb.png"
       }
     ],
     "description": "The Python Chat App project is an online chat application built using the Python programming language. This is the final project in the Python Programming course, where students are required to apply the knowledge they have learned throughout the semester to develop a real-world application.",
@@ -50,48 +50,48 @@
   },
   {
     "id": 2,
-    "img_project": "src/assets//demo/crud-user.png",
+    "img_project": "/assets//demo/crud-user.png",
     "name_project": "CRUD USER APP",
     "language": [
       {
         "id_tech": 1,
         "name_tech": "ReactJS",
-        "img_tech": "src/assets/icon/reactjs.png"
+        "img_tech": "/assets/icon/reactjs.png"
       },
       {
         "id_tech": 2,
         "name_tech": "Redux Toolkit",
-        "img_tech": "src/assets/icon/redux.png"
+        "img_tech": "/assets/icon/redux.png"
       },
       {
         "id_tech": 3,
         "name_tech": "Boostrap",
-        "img_tech": "src/assets/icon/bootstrap.png"
+        "img_tech": "/assets/icon/bootstrap.png"
       },
       {
         "id_tech": 4,
         "name_tech": "JavaScript",
-        "img_tech": "src/assets/icon/js.jpg"
+        "img_tech": "/assets/icon/js.jpg"
       },
       {
         "id_tech": 5,
         "name_tech": "NodeJS",
-        "img_tech": "src/assets/icon/nodejs.png"
+        "img_tech": "/assets/icon/nodejs.png"
       },
       {
         "id_tech": 6,
         "name_tech": "RestAPI",
-        "img_tech": "src/assets/icon/resapi.png"
+        "img_tech": "/assets/icon/resapi.png"
       },
       {
         "id_tech": 7,
         "name_tech": "XamPP",
-        "img_tech": "src/assets/icon/xampp.png"
+        "img_tech": "/assets/icon/xampp.png"
       },
       {
         "id_tech": 8,
         "name_tech": "MySQL",
-        "img_tech": "src/assets/icon/mysql.jpg"
+        "img_tech": "/assets/icon/mysql.jpg"
       }
     ],
     "description": "This personal project was developed to refresh my understanding of ReactJS and NodeJS, while also practicing API testing with Postman. I independently analyzed the requirements, which included implementing functionalities such as adding, deleting, editing, viewing data, and user authentication, to create the project.",
@@ -99,43 +99,43 @@
   },
   {
     "id": 3,
-    "img_project": "src/assets/demo/bookstore1.png",
+    "img_project": "/assets/demo/bookstore1.png",
     "name_project": "BOOK STORE V1",
     "language": [
       {
         "id_tech": 1,
         "name_tech": "HTML",
-        "img_tech": "src/assets/icon/html.png"
+        "img_tech": "/assets/icon/html.png"
       },
       {
         "id_tech": 2,
         "name_tech": "CSS",
-        "img_tech": "src/assets/icon/css.png"
+        "img_tech": "/assets/icon/css.png"
       },
       {
         "id_tech": 3,
         "name_tech": "JavaScript",
-        "img_tech": "src/assets/icon/js.jpg"
+        "img_tech": "/assets/icon/js.jpg"
       },
       {
         "id_tech": 4,
         "name_tech": "Java",
-        "img_tech": "src/assets/icon/java.png"
+        "img_tech": "/assets/icon/java.png"
       },
       {
         "id_tech": 5,
         "name_tech": "Java Spring Boot",
-        "img_tech": "src/assets/icon/springboot.png"
+        "img_tech": "/assets/icon/springboot.png"
       },
       {
         "id_tech": 7,
         "name_tech": "MVC",
-        "img_tech": "src/assets/icon/mvc.png"
+        "img_tech": "/assets/icon/mvc.png"
       },
       {
         "id_tech": 8,
         "name_tech": "MySQL",
-        "img_tech": "src/assets/icon/mysql.jpg"
+        "img_tech": "/assets/icon/mysql.jpg"
       }
     ],
     "description": "My position in the project is designing website UI. In addition to my primary responsibilities of UI design and contributing to database design and functionalities, I also played a crucial role in testing the project. As a tester, I ensured the quality, functionality, and reliability of the website.",
@@ -144,43 +144,43 @@
   },
   {
     "id": 4,
-    "img_project": "src/assets/demo/bookstore2.png",
+    "img_project": "/assets/demo/bookstore2.png",
     "name_project": "BOOK STORE V2",
     "language": [
       {
         "id_tech": 1,
         "name_tech": "HTML",
-        "img_tech": "src/assets/icon/html.png"
+        "img_tech": "/assets/icon/html.png"
       },
       {
         "id_tech": 2,
         "name_tech": "CSS",
-        "img_tech": "src/assets/icon/css.png"
+        "img_tech": "/assets/icon/css.png"
       },
       {
         "id_tech": 3,
         "name_tech": "JavaScript",
-        "img_tech": "src/assets/icon/js.jpg"
+        "img_tech": "/assets/icon/js.jpg"
       },
       {
         "id_tech": 4,
         "name_tech": "NodeJS",
-        "img_tech": "src/assets/icon/nodejs.png"
+        "img_tech": "/assets/icon/nodejs.png"
       },
       {
         "id_tech": 5,
         "name_tech": "ExpressJS",
-        "img_tech": "src/assets/icon/express.png"
+        "img_tech": "/assets/icon/express.png"
       },
       {
         "id_tech": 7,
         "name_tech": "MVC",
-        "img_tech": "src/assets/icon/mvc.png"
+        "img_tech": "/assets/icon/mvc.png"
       },
       {
         "id_tech": 8,
         "name_tech": "MongoDB",
-        "img_tech": "src/assets/icon/mongodb.png"
+        "img_tech": "/assets/icon/mongodb.png"
       }
     ],
     "description": "This is BOOK STORE version 2, with improved code and UI compared to version 1. We've upgraded our API usage with NodeJS, ExpressJS and MongoDB, and added responsive for mobile and iPad/tablet. My role remains UI design, with added responsibility for database design and API creation.",
@@ -188,58 +188,58 @@
   },
   {
     "id": 5,
-    "img_project": "src/assets/demo/dickies.png",
+    "img_project": "/assets/demo/dickies.png",
     "name_project": "E-MERN || Dickies Store Clone",
     "language": [
       {
         "id_tech": 1,
         "name_tech": "ReactJS",
-        "img_tech": "src/assets/icon/reactjs.png"
+        "img_tech": "/assets/icon/reactjs.png"
       },
       {
         "id_tech": 2,
         "name_tech": "Redux Toolkit",
-        "img_tech": "src/assets/icon/redux.png"
+        "img_tech": "/assets/icon/redux.png"
       },
       {
         "id_tech": 3,
         "name_tech": "TailwindCSS",
-        "img_tech": "src/assets/icon/tailwindcss.png"
+        "img_tech": "/assets/icon/tailwindcss.png"
       },
       {
         "id_tech": 4,
         "name_tech": "JavaScript",
-        "img_tech": "src/assets/icon/js.jpg"
+        "img_tech": "/assets/icon/js.jpg"
       },
       {
         "id_tech": 5,
         "name_tech": "NodeJS",
-        "img_tech": "src/assets/icon/nodejs.png"
+        "img_tech": "/assets/icon/nodejs.png"
       },
       {
         "id_tech": 6,
         "name_tech": "RestAPI",
-        "img_tech": "src/assets/icon/resapi.png"
+        "img_tech": "/assets/icon/resapi.png"
       },
       {
         "id_tech": 7,
         "name_tech": "ExpressJS",
-        "img_tech": "src/assets/icon/express.png"
+        "img_tech": "/assets/icon/express.png"
       },
       {
         "id_tech": 8,
         "name_tech": "MongoDB",
-        "img_tech": "src/assets/icon/mongodb.png"
+        "img_tech": "/assets/icon/mongodb.png"
       },
       {
         "id_tech": 9,
         "name_tech": "MVC",
-        "img_tech": "src/assets/icon/mvc.png"
+        "img_tech": "/assets/icon/mvc.png"
       },
       {
         "id_tech": 10,
         "name_tech": "Material UI",
-        "img_tech": "src/assets/icon/mui.png"
+        "img_tech": "/assets/icon/mui.png"
       }
     ],
     "isPending": true,
