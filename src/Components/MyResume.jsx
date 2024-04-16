@@ -23,7 +23,7 @@ function MyResume() {
       <div className="flex justify-center mt-10">
         <a
           target="_blank"
-          href="https://drive.google.com/file/d/1oyZR9S2QoBUy3P1gsmKL0mCyZkoPOYxz/view?usp=drive_link"
+          href="https://drive.google.com/file/d/1SfjASqlifqesMMuUPz0XMa5HblyZgcYi/view?usp=sharing"
           className="text-black bg-[#BAD2FF] p-2 rounded-[8px] cursor-pointer hover:bg-[#25344e] hover:text-white transition-all duration-300 md:text-xl"
         >
           My resume
