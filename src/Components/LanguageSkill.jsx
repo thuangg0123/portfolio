@@ -20,7 +20,7 @@ function Language() {
             alt={skill.value}
             className="w-5 h-5 mr-1 ml-1"
           />
-          <p className="text-sm">{skill.value}</p>
+          <p className="md:text-sm text-xs">{skill.value}</p>
         </div>
       ))}
     </div>
@@ -40,24 +40,34 @@ function Language() {
         </span>
       </div>
       <div className="mt-10 flex flex-col gap-2">
-        <div className="flex gap-4">
-          <h2 className="text-xl font-bold mb-2">Frontend Skills:</h2>
+        <div className="md:flex gap-4">
+          <h2 className="md:text-xl font-bold mb-2 text-base">
+            Frontend Skills:
+          </h2>
           {renderSkills(frontendSkills)}
         </div>
-        <div className="flex gap-4">
-          <h2 className="text-xl font-bold mb-2">Backend Skills:</h2>
+        <div className="md:flex gap-4">
+          <h2 className="md:text-xl font-bold mb-2 text-base">
+            Backend Skills:
+          </h2>
           {renderSkills(backendSkills)}
         </div>
-        <div className="flex gap-4">
-          <h2 className="text-xl font-bold mb-2">Testing Skills:</h2>
+        <div className="md:flex gap-4">
+          <h2 className="md:text-xl font-bold mb-2 text-base">
+            Testing Skills:
+          </h2>
           {renderSkills(testingSkills)}
         </div>
-        <div className="flex gap-4">
-          <h2 className="text-xl font-bold mb-2">Database Skills:</h2>
+        <div className="md:flex gap-4">
+          <h2 className="md:text-xl font-bold mb-2 text-base">
+            Database Skills:
+          </h2>
           {renderSkills(DBSkills)}
         </div>
-        <div className="flex gap-4">
-          <h2 className="text-xl font-bold mb-2">Tool & Management:</h2>
+        <div className="md:flex gap-4">
+          <h2 className="md:text-xl font-bold mb-2 text-base">
+            Tool & Management:
+          </h2>
           {renderSkills(Tool)}
         </div>
       </div>
