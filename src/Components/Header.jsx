@@ -22,11 +22,8 @@ function Header() {
             </a>
           </li>
           <li className="cursor-pointer hover:text-[#BAD2FF] duration-300">
-            <a
-              href="#experience"
-              onClick={() => handleScrollById("experience")}
-            >
-              Experience
+            <a href="#skills" onClick={() => handleScrollById("experience")}>
+              Skills
             </a>
           </li>
           <li className="cursor-pointer hover:text-[#BAD2FF] duration-300">
