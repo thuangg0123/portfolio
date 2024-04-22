@@ -34,6 +34,11 @@ function Language() {
       data-aos-offset="300"
       data-aos-easing="ease-in-sine"
     >
+      <div className="mt-10 text-center">
+        <span className="text-4xl mt-10 text-blue-400 font-bold md:text-5xl">
+          Language Skills
+        </span>
+      </div>
       <div className="mt-10 flex flex-col gap-2">
         <div className="flex gap-4">
           <h2 className="text-xl font-bold mb-2">Frontend Skills:</h2>
