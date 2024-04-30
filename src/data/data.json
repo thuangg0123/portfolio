@@ -242,8 +242,8 @@
         "img_tech": "/assets/icon/mui.png"
       }
     ],
-    "isPending": true,
-    "description": "This is a clothing website based on Dickies Store, but it is currently under construction.",
-    "url_github": "https://github.com/thuangg0123"
+    "video_demo": "/assets/video/demo.mp4",
+    "description": "E-MERN (Dickies Store) is an online shopping platform developed over approximately 3 months, offering users a user-friendly interface for browsing and purchasing fashion products. It utilizes React, Tailwind CSS, Material-UI, Express, MongoDB, Cloudinary, jsonwebtoken, and bcrypt for various functionalities. Key features include user authentication, profile management, shopping cart, wishlist, and PayPal integration. While it provides essential e-commerce features, there's room for improvement in code cleanliness, performance optimization, and payment options..",
+    "url_github": "https://github.com/thuangg0123/dickies"
   }
 ]

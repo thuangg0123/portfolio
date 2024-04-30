@@ -8,6 +8,7 @@ function CardProject({ project }) {
     description,
     url_github,
     isPending,
+    video_demo,
   } = project;
   return (
     <>
@@ -17,7 +18,7 @@ function CardProject({ project }) {
         data-aos-duration="500"
       >
         <a target="_blank" href={url_github}>
-          <div className="mt-10 relative text-center bg-white text-black mx-[31px] rounded-xl cursor-pointer max-w-[450px] md:max-w-[500px] md:min-w-[300px] md:min-h-[590px] md:max-h-[890px]">
+          <div className="mt-10 relative text-center bg-white text-black mx-[31px] rounded-xl cursor-pointer max-w-[450px] md:max-w-[500px] md:min-w-[300px] md:min-h-[630px] md:max-h-[890px]">
             <div>
               <img src={img_project} alt={name_project} />
             </div>
